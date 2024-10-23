@@ -1,0 +1,11 @@
+### List all messages
+
+GET http://localhost:3000/messages
+
+### Create new message
+
+POST http://localhost:3000/messages
+
+### Get a particular message
+
+GET  http://localhost:3000/messages/123123
